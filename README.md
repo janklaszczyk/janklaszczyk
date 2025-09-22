@@ -30,15 +30,6 @@ I'm a molecular biotechnologist working in the pharmaceutical industry with a fo
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=janklaszczyk&show_icons=true&theme=github_dark"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janklaszczyk&layout=compact&theme=github_dark"/>
-</p>
-
----
-
 ## 🤝 Contact Me
 
 📫 I'm open to collaboration on **Life Sciences**, **Bioinformatics**, or **Space research projects** involving data analysis, automation, or AI applications.
